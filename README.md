@@ -30,6 +30,7 @@ HC-05 Bluetooth module;
 
 
 Don't forget to calibrate the MPU-6050 GY-521 in Processing IDE first.
+
 https://github.com/IlAnP7L24/2-wheeled-PID-bluetooth-robot/assets/158156829/54cf69cb-0809-412e-b5a4-f333aedecef6
 
 
