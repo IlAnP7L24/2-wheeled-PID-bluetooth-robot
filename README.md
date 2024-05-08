@@ -29,26 +29,24 @@ HC-05 Bluetooth module;
 
 
 
-Don't forget to calibrate the MPU-6050 GY-521 in Processing IDE first.
+Don't forget to calibrate the MPU-6050 GY-521 in Processing IDE first:
 
 https://github.com/IlAnP7L24/2-wheeled-PID-bluetooth-robot/assets/158156829/54cf69cb-0809-412e-b5a4-f333aedecef6
 
 
-
+Connections diagram:
 
 ![image](https://github.com/IlAnP7L24/2-wheeled-PID-bluetooth-robot/assets/158156829/9acca292-613d-4602-b35d-8c0b979066c8)
 
-Connections diagram
 
 
+Example of output and calibration as seen in Arduino Bluetooth Connector app on a connected smartphone:
 
 ![image](https://github.com/IlAnP7L24/2-wheeled-PID-bluetooth-robot/assets/158156829/8a93b7f0-4902-499c-859b-1df6046cb221)
 
-Example of output and calibration as seen in Arduino Bluetooth Connector app on a connected smartphone
 
 
-Testing just the motor control functions in Tinkercad
-
+Testing just the motor control functions in Tinkercad:
 
 https://github.com/IlAnP7L24/2-wheeled-PID-bluetooth-robot/assets/158156829/6430f871-cb61-4c9c-b9b7-610552832d2f
 
