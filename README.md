@@ -1,6 +1,10 @@
 # 2-wheeled-PID-bluetooth-robot
 2021 Arduino-bootleg project around PID, I2C, Bluetooth, servo PWM control
 
+
+https://github.com/IlAnP7L24/2-wheeled-PID-bluetooth-robot/assets/158156829/f10f0053-2bde-41e5-8221-5be4377d6af0
+
+
 Hardware used:
 
 Arduino Uno R3 or its analogue;
